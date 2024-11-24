@@ -16,6 +16,21 @@
 
 - ⚡ Fun fact **I enjoy competitve programming and am fairly active on websites like leetcode, codeforces and hackerrank.**
 
+## 📖 DevOps Tools I've learned about:
+
+- **Git:** Version control system for managing source code.
+- **Docker:** Containerization tool for building and deploying applications.
+- **Kubernetes:** Container orchestration platform for automating containerised application deployment, scaling, and management.
+- **AWS:** EKS, EC2 Instance, S3 Bucket.
+- **Terraform:** Infrastructure as Code (IaC) tool for provisioning and managing cloud resources.
+- **GitLab CI:** CI/CD tool integrated with GitLab for automating code delivery pipelines.
+
+## 📝 Some Blog Summaries:
+- [Getting Started with Kubernetes: Deploy Your First Application](https://medium.com/@taimuraamir0302/getting-started-with-kubernetes-deploy-your-first-application-db539345b0a2): <br />
+Published on 24th November: In this blog, I’ve introduced Kubernetes as a container orchestration tool and walked through deploying your first application. I’ve explained key components such as pods, deployments, and services, and demonstrated how to use YAML files for configuration. The blog covers setting up a simple web application, exposing it to external traffic, and managing updates. I’ve also emphasized Kubernetes’ ability to automate deployment, scaling, and maintenance, making it an essential tool for cloud-native development.
+- [Introduction to Containerization: Understanding the Basics](https://medium.com/@taimuraamir0302/introduction-to-containerization-understanding-the-basics-33778d391b27): <br />
+Published on 15th September: In this blog, I’ve talked about containerization and why it’s so important in today’s software development world. I’ve broken down how containers package an app with everything it needs to run, making it lightweight, portable, and consistent across different environments. I’ve also explored the benefits, like better scalability, faster deployments, and improved efficiency compared to traditional VMs. Plus, I’ve introduced tools like Docker that make managing containers much easier. If you’re new to containerization, this blog is a great starting point to understand the basics.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mtaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mtaim" height="30" width="40" /></a>
@@ -36,4 +51,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierro-02&" alt="pierro-02" /></p>
 
 ## 📝 Resume
-[Resume](https://github.com/Pierro-02/DevOps-Course-2024/blob/main/Resume%20-%20M.Taimur%20Aamir.pdf)
+You can view my resume [here](https://github.com/Pierro-02/DevOps-Course-2024/blob/main/Resume%20-%20M.Taimur%20Aamir.pdf)
