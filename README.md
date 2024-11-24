@@ -36,4 +36,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierro-02&" alt="pierro-02" /></p>
 
 ## 📝 Resume
-[Resume]https://github.com/Pierro-02/DevOps-Course-2024/blob/main/Resume%20-%20M.Taimur%20Aamir.pdf
+[Resume](https://github.com/Pierro-02/DevOps-Course-2024/blob/main/Resume%20-%20M.Taimur%20Aamir.pdf)
